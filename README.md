@@ -2,7 +2,6 @@
 
 ### AI-Driven Multi-Vendor Network Security Compliance Auditor
 
-> **SIH26155 --- NEXUS-COMPLY**
 >
 > Normalize heterogeneous network-device configurations into a canonical
 > security model, evaluate explicit security controls deterministically,
